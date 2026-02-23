@@ -7,6 +7,8 @@
 
 <h2>📄 Certifications</h2>
 
+- [TAFE Penetration Testing Certification](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [TAFE Digital Forensics Certification](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Google Cybersecurity Certification](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
